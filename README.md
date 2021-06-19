@@ -17,3 +17,6 @@ Straight: 15 points
 Three of a Kind: 10 points  
 Two Pair: 5 points  
 One Pair: 2 points 
+
+Demo: 
+https://weyoweyo.github.io/Poker-Game/poker.html
